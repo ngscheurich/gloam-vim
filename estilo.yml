@@ -1,29 +1,16 @@
-version: '0.15.2'
-author: 'Jacobo Tabernero http://jacoborus.codes'
-name: 'tender'
-url: 'https://github/com/jacoborus/tender.vim'
-license: 'MIT'
-description: 'A 24bit colorscheme for Vim, Airline and Lightline'
+version: 0.1.0
+author: N. G. Scheurich <nick@scheurich.me>
+name: gloam
+url: https://github/com/ngscheurich/gloam.vim
+license: MIT
+description: A cool, moody colorscheme for Vim + Airline.
 colorschemes:
-  - name: 'tender'
-    background: 'dark'
-    palette: 'tender'
-    description: 'A dark and fresh color scheme for vim'
+  - name: gloam
+    background: dark
+    palette: gloam
+    description: A cool, moody colorscheme for Vim
 airline:
-  - name: 'tender'
-    palette: 'tender'
-    style: 'regular'
-    description: 'Tender Airline theme'
-  - name: 'tenderplus'
-    palette: 'tender'
-    style: 'plus'
-    description: 'Tender Plus Airline theme'
-lightline:
-  - name: 'tender'
-    palette: 'tender'
-    style: 'regular'
-    description: 'Tender Lightline theme'
-  - name: 'tenderplus'
-    palette: 'tender'
-    style: 'plus'
-    description: 'Tender Lightline theme'
+  - name: gloam
+    palette: gloam
+    style: regular
+    description: A cool, moody colorscheme for Airline

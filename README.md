@@ -72,6 +72,9 @@ Fix for MacVim (see: [issue](https://github.com/jacoborus/tender.vim/issues/9)):
 let macvim_skip_colorscheme = 1
 ```
 
+If you like gloam-vim and are an [iTerm2](https://www.iterm2.com/) user, you should
+check out [gloam-iterm2](https://github.com/ngscheurich/gloam-iterm2).
+
 ## Roadmap
 
 I plan to add aditional syntax themes for some of the languages I work
